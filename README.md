@@ -34,6 +34,6 @@ Include training loss plots and final test accuracy for each model:
 ## Instructions for Testing (open the file "20978851_HA5.ipynb" on Google Colab)
  - Run all cells in **2. Model Definition (Vanilla RNN)**, **3. Training Setup**, **4. Evaluation and Testing** respectively
  - In **6. My Test**, change the test_file_name to the name of your test file (I've already changed it to 'test.txt' according to the HA5 instruction document)
- - Upload model files 'model_200.pth', 'model_2000.pth', 'model_20000.pth'
+ - Upload model files 'model_200.pth', 'model_2000.pth', 'model_20000.pth', and the 'test.txt'
  - Run the cell in **6. My Test**, check the test result in the output window
  - Thank you!
