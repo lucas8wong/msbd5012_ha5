@@ -16,19 +16,24 @@ Include training loss plots and final test accuracy for each model:
 - Model trained by 200 examples: **53.3% accuracy**
   
   Training Loss:
+  
   ![image](https://github.com/user-attachments/assets/dabdd79e-5663-4dcb-9234-4c32ba2365dc)
 
 - Model trained by 2000 examples: **59.4% accuracy**
 
   Training Loss:
+  
   ![image](https://github.com/user-attachments/assets/346acfdb-e0ef-4d3b-8658-dcbc9488854c)
 
 - Model trained by 20000 examples: **59.4% accuracy**
 
   Training Loss:
+  
   ![image](https://github.com/user-attachments/assets/419ac961-d998-4493-9628-73d205838019)
 
-## Instructions for Testing
-1. Run all cells in **2. Model Definition (Vanilla RNN)**, **3. Training Setup**, **4. Evaluation and Testing**
-2. In **6. My Test**, change the test_file_name to the name if your test file
-3. Run the cell in **6. My Test**, see the test result in the output window
+## Instructions for Testing (open the file "20978851_HA5.ipynb" on Google Colab)
+ - Run all cells in **2. Model Definition (Vanilla RNN)**, **3. Training Setup**, **4. Evaluation and Testing** respectively
+ - In **6. My Test**, change the test_file_name to the name of your test file (I've already changed it to 'test.txt' according to the HA5 instruction document)
+ - Upload model files 'model_200.pth', 'model_2000.pth', 'model_20000.pth'
+ - Run the cell in **6. My Test**, check the test result in the output window
+ - Thank you!
